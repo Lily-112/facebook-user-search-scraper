@@ -1,0 +1,17 @@
+{
+  "profileUrls": [
+    "https://www.facebook.com/profile.php?id=4",
+    "https://www.facebook.com/mark.zuckerberg"
+  ],
+  "names": [
+    "Mark Zuckerberg",
+    "Ada Lovelace"
+  ],
+  "perNameLimit": 2,
+  "embeddedHtmlProfiles": [
+    {
+      "baseUrl": "https://www.facebook.com/profile.php?id=4",
+      "html": "<html><head><title>Mark Zuckerberg - Facebook</title><meta property=\"og:title\" content=\"Mark Zuckerberg\"/><meta property=\"og:image\" content=\"https://example.com/zuck_profile.jpg\"/><meta property=\"og:url\" content=\"https://www.facebook.com/profile.php?id=4\"/></head><body><h1>Mark Zuckerberg</h1><ul><li>Founder and CEO at Meta</li><li>Studied Computer Science at Harvard University</li></ul><img src=\"https://example.com/zuck1.jpg\"/><img src=\"https://example.com/zuck2.jpg\"/></body></html>"
+    }
+  ]
+}
