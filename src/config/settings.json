@@ -1,0 +1,6 @@
+{
+  "scrollsAmount": 3,
+  "defaultFormats": ["json"],
+  "mode": "offline",
+  "notes": "To enable network fetching, run main.py with --online and provide profile URLs you are legally allowed to access."
+}
